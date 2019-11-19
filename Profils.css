@@ -1,0 +1,98 @@
+.Profils
+{
+	color: black;
+	width: 40%;
+	margin-top: 30px;
+	margin-left: 400px;
+	font:Arial;
+	font-size: 1.7em;
+	border: 1.5px solid black;
+}
+
+.Publication
+{	
+	border:1.7px solid black;
+	text-align: center;
+	background-color: #82B4D0;
+	width: 70%;
+	margin-top: 30px;
+	margin-left: 82px;
+	border: 0.5px solid black;
+}
+
+.Like
+{
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+.LikeAffichage
+{
+	border-radius:12px 12px 12px 12px;
+	background: #f5f5f5;
+	border:none;
+	color:#006EAD;
+	font:bold 12px Verdana;
+	padding:6px 0 6px 0;
+	box-shadow:1px 1px 3px #999;
+	margin-left: 0px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+.fond
+{
+	padding-left: 380px;
+	padding-bottom: 30px;
+	padding-top: 20px;
+}
+
+.photo img
+{
+	border-radius:110px;
+	width:250px;
+	height:250px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 35px;
+}
+
+h4
+{
+	font-family: times;
+	text-align: center;
+}
+
+ul
+{
+	display: inline-block;
+}
+
+.Text
+{
+	text-align: center;
+	font-size: 1.4em;
+}
+
+.Prenom
+{
+	font-family:Arial;
+	padding-left: 70px;
+	display: inline;
+	padding-right: 210px;
+}
+
+.Nom
+{
+	font-family:times;
+	display: inline;
+}
+
+.Date_naissance
+{
+	font-size: 20px;
+	padding-left: 70px;
+	padding-top: 30px;
+}
